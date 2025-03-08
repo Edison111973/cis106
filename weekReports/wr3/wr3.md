@@ -1,12 +1,12 @@
 # Week Report 3
 
 ## Completed work for week 3
-[Lab3](../../labs/lab3/lab3.md)
-[Notes3](../../notes/notes3/notes3.md)
-[Managing Software Cheat Sheet](../../cheatSheets/cheatSheets3/Managing%20Software%20Cheat%20Sheet.png)
 
-[What is a Shell?](https://bit.ly/3jS8fNa)
-[Managing Software](https://rapurl.live/nft)
+* [Lab3](../../labs/lab3/lab3.md)
+* [Notes3](../../notes/notes3/notes3.md)
+* [Managing Software Cheat Sheet](../../cheatSheets/cheatSheets3/Managing%20Software%20Cheat%20Sheet.png)
+* [What is a Shell?](https://bit.ly/3jS8fNa)
+* [Managing Software](https://rapurl.live/nft)
 
 ## Practice
 
