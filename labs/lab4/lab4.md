@@ -2,7 +2,10 @@
 
 ## Question 1 (Absolute path and relative path Screenshots)
 
-![Absolute path](Screenshot1.png)   ![Relative path](Screenshot2.png)   
+![Absolute path](Screenshot1.png)  
+
+
+![Relative path](Screenshot2.png)   
 
 
 ## Question 2 (ls Commando Screenshot)
