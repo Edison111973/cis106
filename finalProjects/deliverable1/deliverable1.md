@@ -10,8 +10,8 @@
 ---
 ### What is a web server? Hardware and software side
 - ***Hardware side:*** A web server's hardware refers to the physical machine or device that hosts the web server software. It includes components like CPU, memory (RAM), storage, and network interfaces, all of which work together to serve web content.
-<br>
-- ***Software side:*** The web server software (e.g., Apache, Nginx) is responsible for handling HTTP requests from clients (such as web browsers), processing them, and serving responses (like web pages).
+ - ***Software side:*** The web server software (e.g., Apache, Nginx) is responsible for handling HTTP requests from clients (such as web browsers), processing them, and serving responses (like web pages).
+  
 ### What are some different web server applications?
 
 
