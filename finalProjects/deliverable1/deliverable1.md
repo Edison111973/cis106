@@ -8,6 +8,8 @@
 ---
 ## Basic Terminology
 ---
+> Tutorial can be found [here](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-4)
+
 ### What is a web server? Hardware and software side
 - ***Hardware side:*** A web server's hardware refers to the physical machine or device that hosts the web server software. It includes components like CPU, memory (RAM), storage, and network interfaces, all of which work together to serve web content.
  - ***Software side:*** The web server software (e.g., Apache, Nginx) is responsible for handling HTTP requests from clients (such as web browsers), processing them, and serving responses (like web pages).
@@ -24,26 +26,20 @@
    | <img src="caddy.png" alt="caddy" width="40" />  |Caddy               |Apache License2.0   |[Caddy](https://caddyserver.com/)          | 
 
 ### What is virtualization?
-<img src="virtualizacion.png" alt="virtualizacion" width="70" />
 
-***Virtualization*** is the creation of virtual (rather than physical) versions of resources, like servers, storage, or networks. It allows multiple virtual instances to run on a single physical machine, improving resource utilization and providing isolation. Common uses include creating virtual machines (VMs) and virtual networks.
+<img src="virtualizacion.png" alt="virtualizacion" width="70" /> ***Virtualization*** is the creation of virtual (rather than physical) versions of resources, like servers, storage, or networks. It allows multiple virtual instances to run on a single physical machine, improving resource utilization and providing isolation. Common uses include creating virtual machines (VMs) and virtual networks.
 ### What is virtualbox?
-<img src="virtualbox.png" alt="virtualbox" width="100" />
 
-***VirtualBox*** is an open-source virtualization software developed by Oracle that allows users to create and run multiple virtual machines on a single physical computer. It supports various operating systems, including Windows, Linux, and macOS, making it a popular tool for testing, development, and learning.
+<img src="virtualbox.png" alt="virtualbox" width="100" />***VirtualBox*** is an open-source virtualization software developed by Oracle that allows users to create and run multiple virtual machines on a single physical computer. It supports various operating systems, including Windows, Linux, and macOS, making it a popular tool for testing, development, and learning.
 ### What is a virtual machine?
-<img src="vm.png" alt="vm" width="90" />
 
-***A virtual machine*** (VM) is a software-based simulation of a physical computer. It runs an operating system and applications just like a real computer but operates within a virtualized environment hosted on a physical machine (the host). Multiple VMs can run simultaneously on the same hardware.
+<img src="vm.png" alt="vm" width="90" /> ***A virtual machine*** (VM) is a software-based simulation of a physical computer. It runs an operating system and applications just like a real computer but operates within a virtualized environment hosted on a physical machine (the host). Multiple VMs can run simultaneously on the same hardware.
 ### What is Ubuntu Server?
-<img src="ubuntu.png" alt="ubuntu" width="50" />
 
-***Ubuntu Server*** is a version of the Ubuntu operating system optimized for server environments. Unlike the desktop version, it does not come with a graphical user interface (GUI), focusing instead on providing powerful server services (e.g., web hosting, databases, file sharing) via the command line.
+<img src="ubuntu.png" alt="ubuntu" width="50" /> ***Ubuntu Server*** is a version of the Ubuntu operating system optimized for server environments. Unlike the desktop version, it does not come with a graphical user interface (GUI), focusing instead on providing powerful server services (e.g., web hosting, databases, file sharing) via the command line.
 ### What is a firewall?
-<img src="firewall.png" alt="firewall" width="70" />
 
-***A firewall*** is a security system that monitors and controls network traffic between different networks (such as between a private network and the internet). It can be hardware-based, software-based, or a combination, and it enforces rules to allow or block traffic based on security criteria, protecting systems from unauthorized access.
+<img src="firewall.png" alt="firewall" width="70" /> ***A firewall*** is a security system that monitors and controls network traffic between different networks (such as between a private network and the internet). It can be hardware-based, software-based, or a combination, and it enforces rules to allow or block traffic based on security criteria, protecting systems from unauthorized access.
 ### What is SSH?
-<img src="ssh.png" alt="ssh" width="60" />
 
-***SSH (Secure Shell)*** is a cryptographic network protocol used to securely access and manage remote systems over a network. It allows users to log into remote servers, execute commands, and transfer files securely. SSH encrypts the communication, ensuring that sensitive data remains protected.
+<img src="ssh.png" alt="ssh" width="60" /> ***SSH (Secure Shell)*** is a cryptographic network protocol used to securely access and manage remote systems over a network. It allows users to log into remote servers, execute commands, and transfer files securely. SSH encrypts the communication, ensuring that sensitive data remains protected.
