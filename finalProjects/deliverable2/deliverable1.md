@@ -93,8 +93,10 @@
 
 **cat /var/log/apache2/error.log** 
 ![cat](cat.png)
+
 **head /var/log/apache2/access.log**
 ![head](head.png)
+
 **tail /var/log/apache2/error.log**
 ![tail](tail.png)
 
