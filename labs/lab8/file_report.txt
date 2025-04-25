@@ -1,0 +1,13 @@
+All files in my directory
+.ansi_codes.sh, audios, .bash_aliases, .bash_history, .bash_logout, .bashrc,
+.cache, car, cars, challenge-Lab6, cis106, cis106.zip, .config, Desktop,
+documents, Documents, .dotnet, Downloads, .gitconfig, .gnupg, images, inClasses,
+lab6, .lesshst, .local, music, Music, Pictures, pizzahouse, .pki, .profile,
+project, project_alpha, Public, scripts, snap, .ssh, .sudo_as_admin_successful,
+Templates, .textFiles.sh, tfi.sh, UsersExport.csv, UsersExport.tsv,
+.vboxclient-clipboard-tty2-control.pid, .vboxclient-clipboard-tty2-service.pid,
+.vboxclient-draganddrop-tty2-control.pid,
+.vboxclient-hostversion-tty2-control.pid, .vboxclient-seamless-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-service.pid, videos, Videos, .viminfo, .vscode,
+website-lab5, .wget-hsts, wildcard_extra_practice, wildcardpractice
